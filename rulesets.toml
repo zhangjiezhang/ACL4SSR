@@ -1,0 +1,3 @@
+[[rulesets]]
+group = "🎯 全球直连"
+ruleset = "https://raw.githubusercontent.com/zhangjiezhang/ACL4SSR/customer/rules/Customer.list"
