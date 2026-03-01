@@ -10,5 +10,5 @@ import = "https://raw.githubusercontent.com/zhangjiezhang/ACL4SSR/customer/rules
 # local
 [[rulesets]]
 # import = "snippets/rulesets.toml"
-importruleset = "https://gitea.local.pascall.cn/public/ACL4SSR/raw/branch/customer/rulesets-local.toml"
+import = "https://gitea.local.pascall.cn/public/ACL4SSR/raw/branch/customer/rulesets-local.toml"
 ```
